@@ -1,0 +1,2 @@
+# thoughts_on_ai
+thoughts_on_development_of_ai

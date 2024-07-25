@@ -1,0 +1,5 @@
+The mankind has lived an extraordinary time at least last 12 years, since the first breakthroghs in the Deep Learning were presented. The Neural Networks are as long-lived invention as a digital computer itself, actually Turing himself considered the possibility to remodel the information-processing of Turing Machine as the connections of the neurons.
+
+But because lack of the real hardware that efficiently could model and execute the neural networks functionality, it took over 60 years before it was invented that GPUs could be the key factor to solve the problematic nature of neural networks.
+
+As naturally parallel graph, in official terms described as SIMD or even MIMD in the parallel processing, the neural networks exploit much more better the computing machine having multiple ALUs and MACs than typical CPU, that has nowadays usually from 8 to 32 units in normal users models.
